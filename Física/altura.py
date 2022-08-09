@@ -1,5 +1,3 @@
-import numpy as np
-
 
 print('Olá, bem vindo ao calculador de altura, baseado na fóruma h=gt²/2')
 
